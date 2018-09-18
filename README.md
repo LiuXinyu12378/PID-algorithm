@@ -1,4 +1,5 @@
 # PID-algorithm
+### 原博客本人写 https://www.cnblogs.com/LiuXinyu12378/p/8878582.html
 PID算法的通用解释，本人通过项目总结
 
 先插句广告，本人QQ522414928，不熟悉PID算法的可以一起交流学习，随时在线
